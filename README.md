@@ -1,2 +1,4 @@
 # Applied-Machine-Learning-course-Project
-This repository is about tox21 dataset , In particular 'SR-ARE' toxicology
+I appreciate my professor, Dr. Hajiabolhassan who learned us machine learning methods in this course.
+I also appreciate all TAs and my groupmates who helped me in this project. 
+done @ Feb2022.
